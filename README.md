@@ -243,25 +243,12 @@ I enjoy exploring how **AI and Machine Learning can be used to solve practical p
 
 ---
 
-# 📊 GitHub Stats
+
+
+
+# 🐍 Contribution Snake
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ChrisMariaShajanC&show_icons=true&count_private=true&hide_border=true" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisMariaShajanC&layout=compact&hide_border=true" height="170"/>
-
-</div>
-
----
-
-# 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=ChrisMariaShajanC&hide_border=true"/>
-
-<br><br>
 
 <img src="https://raw.githubusercontent.com/ChrisMariaShajanC/ChrisMariaShajanC/output/github-snake.svg" alt="GitHub Contribution Snake"/>
 
