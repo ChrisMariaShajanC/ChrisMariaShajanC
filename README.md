@@ -261,6 +261,10 @@ I enjoy exploring how **AI and Machine Learning can be used to solve practical p
 
 <img src="https://streak-stats.demolab.com?user=ChrisMariaShajanC&hide_border=true"/>
 
+<br><br>
+
+<img src="https://raw.githubusercontent.com/ChrisMariaShajanC/ChrisMariaShajanC/output/github-snake.svg" alt="GitHub Contribution Snake"/>
+
 </div>
 
 ---
