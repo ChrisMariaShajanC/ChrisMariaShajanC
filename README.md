@@ -1,38 +1,48 @@
 <div align="center">
 
-# 👋 Hi, I'm Chris Maria
+# 👋 Hi, I'm Chris Maria Shajan C
 
-### 💻 B.Tech CSE Student | Full-Stack Developer | ML Enthusiast
+### 🎓 B.Tech CSE Student | 💻 Developer | 🤖 AI/ML Enthusiast
 
 <p>
-  <i>Building projects • Learning new technologies • Exploring ideas</i>
+  <i>Building projects • Learning technologies • Exploring ideas</i>
 </p>
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=ChrisMariaShajanC&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=ChrisMariaShajanC&label=PROFILE%20VIEWS&color=8B5CF6&style=flat-square" />
 
 </div>
 
 ---
 
-## 👩‍💻 About Me
+## 🌟 About Me
 
-🎓 I'm a **Computer Science Engineering student** passionate about technology and software development.
+<div align="center">
 
-💻 I enjoy building **web applications, machine learning projects, and practical software solutions**.
+### 👩‍💻 Computer Science Student
+### 🤖 Exploring AI & Machine Learning
+### 💻 Building Web Applications
+### 🎨 Interested in UI/UX
 
-🤖 I'm interested in **Artificial Intelligence & Machine Learning** and enjoy exploring how technology can solve real-world problems.
+<br>
 
-🎨 I also have an interest in **UI/UX design** and creating clean and user-friendly interfaces.
+<p>
+I enjoy learning by building projects and experimenting with different technologies.
+</p>
 
-🚀 I enjoy participating in **hackathons, internships, and technical projects** where I can learn, collaborate, and build something useful.
+<p>
+My main interests are <b>Artificial Intelligence, Machine Learning, Full-Stack Development</b>
+and <b>UI/UX</b>.
+</p>
+
+</div>
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 👨‍💻 Programming Languages
+### 👨‍💻 Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,c,js" />
@@ -41,22 +51,28 @@
 ### 🌐 Web Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,react,django,fastapi,nodejs" />
+<img src="https://skillicons.dev/icons?i=html,css,react,django,fastapi,flask,nodejs" />
 </p>
 
-### 🤖 Machine Learning & Data
+### 🤖 AI / Machine Learning
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn" />
+<img src="https://skillicons.dev/icons?i=python,tensorflow" />
 </p>
 
-### 🗄️ Database
+<p align="center">
+
+`Scikit-Learn` • `Pandas` • `NumPy` • `Jupyter Notebook` • `Streamlit`
+
+</p>
+
+### 🗄️ Databases
 
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
 </p>
 
-### 🎨 Design & Tools
+### 🎨 Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=figma,vscode,git,github" />
@@ -71,23 +87,30 @@
 
 <td width="50%">
 
-### 🏏 IPL Dual Predictor
+### 🏏 IPL Dual Prediction System
 
-A Machine Learning project for predicting **IPL match outcomes and individual player performances**.
+A Machine Learning project for IPL-related prediction tasks involving **match outcomes and player performance**.
 
-**Technologies:**  
-Python • Machine Learning • Jupyter Notebook
+**Tech Stack**
+
+`Python`  
+`Machine Learning`  
+`Jupyter Notebook`  
+`Streamlit`
 
 </td>
 
 <td width="50%">
 
-### 🛡️ Break Boundaries
+### 🏨 Hotel Room Booking
 
-An **inclusive technology project** focused on providing assistance and improving accessibility.
+A full-stack web application for **hotel room booking and management**.
 
-**Technologies:**  
-Software Development • UI/UX
+**Tech Stack**
+
+`React`  
+`Django`  
+`MySQL`
 
 </td>
 
@@ -97,51 +120,134 @@ Software Development • UI/UX
 
 <td width="50%">
 
-### 🏨 Hotel Room Booking
+### 🛡️ Break Boundaries – Inclusive Assist
 
-A full-stack web application designed for **hotel room booking and management**.
+An inclusive technology project focused on **providing assistance and improving accessibility**.
 
-**Technologies:**  
-React • Django • MySQL
+**Focus**
+
+`UI/UX`  
+`Accessibility`  
+`Software Development`
 
 </td>
 
 <td width="50%">
 
-### 📊 Churn Predictor
+### 📊 Customer Churn Prediction
 
 A Machine Learning project focused on **customer churn prediction** using data-driven techniques.
 
-**Technologies:**  
-Python • Machine Learning
+**Tech Stack**
+
+`Python`  
+`Scikit-Learn`  
+`Machine Learning`
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🤖 AI & Machine Learning
+
+<div align="center">
+
+`Machine Learning` • `Data Analysis` • `Classification`
+
+`Regression` • `Data Preprocessing` • `Predictive Modelling`
+
+`Model Evaluation` • `Data Visualization`
+
+</div>
+
+<br>
+
+I enjoy exploring how **AI and Machine Learning can be used to solve practical problems**.
+
+---
+
+# 💻 Development
+
+<table>
+<tr>
+
+<td width="50%">
+
+### 🌐 Frontend
+
+`HTML`  
+`CSS`  
+`JavaScript`  
+`React`
+
+</td>
+
+<td width="50%">
+
+### ⚙️ Backend
+
+`Python`  
+`Django`  
+`Flask`  
+`FastAPI`
 
 </td>
 
 </tr>
 
+<tr>
+
+<td width="50%">
+
+### 🗄️ Database
+
+`MySQL`  
+`PostgreSQL`
+
+</td>
+
+<td width="50%">
+
+### 🔧 Tools
+
+`Git`  
+`GitHub`  
+`VS Code`  
+`Figma`
+
+</td>
+
+</tr>
 </table>
 
 ---
 
-# 🧠 What I'm Currently Learning
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/AI%20%26%20Machine%20Learning-FF6F00?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Full--Stack%20Development-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Cloud-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=kalilinux&logoColor=white"/>
-
-</p>
-
----
-
-# 📊 GitHub Statistics
+# 🌱 Currently Learning
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ChrisMariaShajanC&show_icons=true&hide_border=true&count_private=true" height="170"/>
+<img src="https://img.shields.io/badge/AI%20%26%20Machine%20Learning-8B5CF6?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Generative%20AI-7C3AED?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Full--Stack%20Development-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Cloud-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+
+</div>
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ChrisMariaShajanC&show_icons=true&count_private=true&hide_border=true" height="170"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisMariaShajanC&layout=compact&hide_border=true" height="170"/>
 
@@ -153,42 +259,65 @@ Python • Machine Learning
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=ChrisMariaShajanC&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=ChrisMariaShajanC&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🏆 Achievements & Activities
 
-- 🎓 **B.Tech Computer Science Engineering**
-- 🤖 **NPTEL – Introduction to Machine Learning**
-- 🚀 **Hackathon Participant**
-- 💻 **Software Development & UX Internship Experience**
-- 🎨 **UI/UX Workshops**
-- 🔐 **Cybersecurity Learning**
-- 🧠 **Machine Learning Projects**
+
+# 🎨 What I Enjoy
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center" width="25%">
+
+### 💻
+**Build**
+
+Projects & Applications
+
+</td>
+
+<td align="center" width="25%">
+
+### 🤖
+**Explore**
+
+AI & Machine Learning
+
+</td>
+
+<td align="center" width="25%">
+
+### 🎨
+**Design**
+
+UI & User Experience
+
+</td>
+
+<td align="center" width="25%">
+
+### 🚀
+**Learn**
+
+New Technologies
+
+</td>
+
+</tr>
+</table>
+
+</div>
 
 ---
 
-# 🌱 Areas of Interest
-
-<p align="center">
-
-`Artificial Intelligence` •
-`Machine Learning` •
-`Full-Stack Development` •
-`Backend Development` •
-`UI/UX` •
-`Cloud Computing` •
-`Cybersecurity` •
-`Problem Solving`
-
-</p>
-
----
-
-# 📫 Connect With Me
+# 📫 Let's Connect
 
 <div align="center">
 
@@ -196,11 +325,11 @@ Python • Machine Learning
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="www.linkedin.com/in/chrismariashajanc">
+<a href="https://www.linkedin.com/in/chrismariashajanc/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="chrismariashajanc2006@gmail.com">
+<a href="mailto:chrismariashajanc2006@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -210,8 +339,8 @@ Python • Machine Learning
 
 <div align="center">
 
-### 💙 Thanks for visiting my profile!
+### 💜 Thanks for visiting my profile!
 
-<i>Keep learning • Keep building • Keep growing 🚀</i>
+<i>Keep Learning • Keep Building • Keep Exploring 🚀</i>
 
 </div>
