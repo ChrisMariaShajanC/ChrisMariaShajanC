@@ -22,3 +22,4 @@ jobs:
           USERNAME: ${{ github.repository_owner }}
           BRANCH_NAME: main
           UTC_OFFSET: 5.5
+          THEME: github
