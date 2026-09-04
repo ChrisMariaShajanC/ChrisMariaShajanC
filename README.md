@@ -257,28 +257,19 @@ I enjoy exploring how **AI and Machine Learning can be used to solve practical p
 
 <div align="center">
 
-<a href="https://github.com/ChrisMariaShajanC">
+<img src="https://raw.githubusercontent.com/ChrisMariaShajanC/ChrisMariaShajanC/main/profile-summary-card-output/github_dark/0-profile-details.svg" width="95%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ChrisMariaShajanC&show_icons=true&hide_border=true&theme=dark" width="48%" />
+<br><br>
 
-</a>
+<img src="https://raw.githubusercontent.com/ChrisMariaShajanC/ChrisMariaShajanC/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" width="48%">
+<img src="https://raw.githubusercontent.com/ChrisMariaShajanC/ChrisMariaShajanC/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" width="48%">
 
-<a href="https://github.com/ChrisMariaShajanC">
+<br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisMariaShajanC&layout=compact&hide_border=true&theme=dark" width="48%" />
-
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ChrisMariaShajanC&theme=github-compact&hide_border=true&area=true" width="95%" />
+<img src="https://raw.githubusercontent.com/ChrisMariaShajanC/ChrisMariaShajanC/main/profile-summary-card-output/github_dark/3-stats.svg" width="48%">
+<img src="https://raw.githubusercontent.com/ChrisMariaShajanC/ChrisMariaShajanC/main/profile-summary-card-output/github_dark/4-productive-time.svg" width="48%">
 
 </div>
----
 
 # 🎨 What I Enjoy
 
