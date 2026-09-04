@@ -25,4 +25,4 @@ jobs:
           BRANCH_NAME: main
           UTC_OFFSET: 5.5
           AUTO_PUSH: true
-          THEME: github_dark
+          THEME: "github_dark"
