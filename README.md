@@ -252,22 +252,21 @@ I enjoy exploring how **AI and Machine Learning can be used to solve practical p
 </div>
 
 ---
-
 # 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ChrisMariaShajanC/ChrisMariaShajanC/main/profile-summary-card-output/github_dark/0-profile-details.svg" width="95%">
+<img src="https://raw.githubusercontent.com/ChrisMariaShajanC/ChrisMariaShajanC/main/profile-summary-card-output/github/0-profile-details.svg" width="95%">
 
 <br><br>
 
-<img src="https://raw.githubusercontent.com/ChrisMariaShajanC/ChrisMariaShajanC/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" width="48%">
-<img src="https://raw.githubusercontent.com/ChrisMariaShajanC/ChrisMariaShajanC/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" width="48%">
+<img src="https://raw.githubusercontent.com/ChrisMariaShajanC/ChrisMariaShajanC/main/profile-summary-card-output/github/1-repos-per-language.svg" width="48%">
+<img src="https://raw.githubusercontent.com/ChrisMariaShajanC/ChrisMariaShajanC/main/profile-summary-card-output/github/2-most-commit-language.svg" width="48%">
 
 <br><br>
 
-<img src="https://raw.githubusercontent.com/ChrisMariaShajanC/ChrisMariaShajanC/main/profile-summary-card-output/github_dark/3-stats.svg" width="48%">
-<img src="https://raw.githubusercontent.com/ChrisMariaShajanC/ChrisMariaShajanC/main/profile-summary-card-output/github_dark/4-productive-time.svg" width="48%">
+<img src="https://raw.githubusercontent.com/ChrisMariaShajanC/ChrisMariaShajanC/main/profile-summary-card-output/github/3-stats.svg" width="48%">
+<img src="https://raw.githubusercontent.com/ChrisMariaShajanC/ChrisMariaShajanC/main/profile-summary-card-output/github/4-productive-time.svg" width="48%">
 
 </div>
 
