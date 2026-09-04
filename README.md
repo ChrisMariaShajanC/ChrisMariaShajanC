@@ -257,9 +257,17 @@ I enjoy exploring how **AI and Machine Learning can be used to solve practical p
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ChrisMariaShajanC&show_icons=true&count_private=true&hide_border=true&theme=dark" height="180"/>
+<a href="https://github.com/ChrisMariaShajanC">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisMariaShajanC&layout=compact&hide_border=true&theme=dark" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ChrisMariaShajanC&show_icons=true&hide_border=true&theme=dark" width="48%" />
+
+</a>
+
+<a href="https://github.com/ChrisMariaShajanC">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisMariaShajanC&layout=compact&hide_border=true&theme=dark" width="48%" />
+
+</a>
 
 </div>
 
@@ -267,10 +275,9 @@ I enjoy exploring how **AI and Machine Learning can be used to solve practical p
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ChrisMariaShajanC&theme=github-compact&hide_border=true&area=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ChrisMariaShajanC&theme=github-compact&hide_border=true&area=true" width="95%" />
 
 </div>
-
 ---
 
 # 🎨 What I Enjoy
