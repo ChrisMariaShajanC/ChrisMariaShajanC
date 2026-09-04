@@ -89,7 +89,7 @@ and <b>UI/UX</b>.
 
 ### 🏏 IPL Dual Prediction System
 
-A Machine Learning project for IPL-related prediction tasks involving **match outcomes and player performance**.
+A Machine Learning project for **IPL-related prediction tasks involving match outcomes and player performance**.
 
 **Tech Stack**
 
@@ -136,7 +136,7 @@ An inclusive technology project focused on **providing assistance and improving 
 
 ### 📊 Customer Churn Prediction
 
-A Machine Learning project focused on **customer churn prediction** using data-driven techniques.
+A Machine Learning project focused on **customer churn prediction using data-driven techniques**.
 
 **Tech Stack**
 
@@ -243,9 +243,6 @@ I enjoy exploring how **AI and Machine Learning can be used to solve practical p
 
 ---
 
-
-
-
 # 🐍 Contribution Snake
 
 <div align="center">
@@ -256,7 +253,25 @@ I enjoy exploring how **AI and Machine Learning can be used to solve practical p
 
 ---
 
+# 📊 GitHub Analytics
 
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ChrisMariaShajanC&show_icons=true&count_private=true&hide_border=true&theme=dark" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisMariaShajanC&layout=compact&hide_border=true&theme=dark" height="180"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ChrisMariaShajanC&theme=github-compact&hide_border=true&area=true" width="95%"/>
+
+</div>
+
+---
 
 # 🎨 What I Enjoy
 
