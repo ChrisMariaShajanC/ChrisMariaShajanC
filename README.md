@@ -14,8 +14,6 @@ Currently exploring AI/ML and full-stack development while continuously learning
 
 <img src="https://raw.githubusercontent.com/ChrisMariaShajanC/ChrisMariaShajanC/main/profile-summary-card-output/github/0-profile-details.svg" width="95%" alt="GitHub profile details"/>
 
-<img src="https://raw.githubusercontent.com/ChrisMariaShajanC/ChrisMariaShajanC/main/profile-summary-card-output/github/1-repos-per-language.svg" width="48%" alt="Repositories by language"/>
-<img src="https://raw.githubusercontent.com/ChrisMariaShajanC/ChrisMariaShajanC/main/profile-summary-card-output/github/3-stats.svg" width="48%" alt="GitHub statistics"/>
 
 </div>
 
