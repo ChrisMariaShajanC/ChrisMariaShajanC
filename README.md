@@ -54,17 +54,12 @@ Currently exploring AI/ML and full-stack development while continuously learning
 
 ---
 
-<h2 align="center">📅 Contribution Activity</h2>
+<h2 align="center">🔥 GitHub Streak & Contributions</h2>
 
-<div align="center">
-
-<a href="https://github.com/ChrisMariaShajanC">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ChrisMariaShajanC&theme=tokyo-night" width="100%" alt="Contribution Activity Graph"/>
-
-</a>
-
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions.dark.svg">
+  <img src="./assets/contributions.light.svg" width="100%" alt="Streak and Contributions">
+</picture>
 <h2 align="center">🌐 Connect With Me</h2>
 
 <div align="center">
