@@ -1,12 +1,10 @@
- <div align="center">
-
 # Hi, I'm Chris Maria Shajan C 👋
+
+<div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=8B5CF6&center=true&vCenter=true&width=550&lines=B.Tech+CSE+Student;Exploring+AI%2FML+%26+Web+Development;Learning+%7C+Building+%7C+Growing" alt="Typing SVG" />
 
 </div>
-
----
 
 I'm a Computer Science Engineering student passionate about technology, problem-solving, and building meaningful applications.
 
@@ -24,11 +22,53 @@ Currently exploring AI/ML and full-stack development while continuously learning
 
 ---
 
+<h2 align="center">🔥 GitHub Streak</h2>
+
+<div align="center">
+
+<img width="75%" src="https://streak-stats.demolab.com?user=ChrisMariaShajanC&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak"/>
+
+</div>
+
+---
+
+<h2 align="center">📈 GitHub Statistics</h2>
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=ChrisMariaShajanC&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisMariaShajanC&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+
+</div>
+
+---
+
+<h2 align="center">🏆 GitHub Trophies</h2>
+
+<div align="center">
+
+<img width="95%" src="https://github-profile-trophy.vercel.app/?username=ChrisMariaShajanC&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
+
+</div>
+
+---
+
 <h2 align="center">🐍 Contribution Snake</h2>
 
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/ChrisMariaShajanC/ChrisMariaShajanC/output/github-snake.svg" width="100%" alt="GitHub contribution snake"/>
+
+</div>
+
+---
+
+<h2 align="center">📅 Contribution Activity</h2>
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ChrisMariaShajanC&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Activity Graph"/>
 
 </div>
 
@@ -56,6 +96,6 @@ Currently exploring AI/ML and full-stack development while continuously learning
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=ChrisMariaShajanC&style=flat-square&color=8B5CF6" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=ChrisMariaShajanC&style=flat-square&color=8B5CF6" alt="Profile Views"/>
 
 </div>
