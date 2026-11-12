@@ -72,8 +72,6 @@ Currently exploring AI/ML and full-stack development while continuously learning
 
 </div>
 
----
-
 <h2 align="center">🌐 Connect With Me</h2>
 
 <div align="center">
