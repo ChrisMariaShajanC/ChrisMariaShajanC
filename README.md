@@ -21,26 +21,16 @@ Currently exploring AI/ML and full-stack development while continuously learning
 </div>
 
 ---
-
 <h2 align="center">🔥 GitHub Streak</h2>
 
 <div align="center">
 
-<img width="75%" src="https://streak-stats.demolab.com?user=ChrisMariaShajanC&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak"/>
+<img width="75%" src="https://streak-stats.demolab.com?user=ChrisMariaShajanC&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
 ---
 
-<h2 align="center">📈 GitHub Statistics</h2>
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=ChrisMariaShajanC&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisMariaShajanC&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-
-</div>
 
 ---
 
@@ -48,7 +38,7 @@ Currently exploring AI/ML and full-stack development while continuously learning
 
 <div align="center">
 
-<img width="95%" src="https://github-profile-trophy.vercel.app/?username=ChrisMariaShajanC&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=ChrisMariaShajanC&theme=tokyonight&no-frame=true&row=1&column=6" width="95%" alt="GitHub Trophies"/>
 
 </div>
 
@@ -68,10 +58,13 @@ Currently exploring AI/ML and full-stack development while continuously learning
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ChrisMariaShajanC&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Activity Graph"/>
+<a href="https://github.com/ChrisMariaShajanC">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ChrisMariaShajanC&theme=tokyo-night" width="100%" alt="Contribution Activity Graph"/>
+
+</a>
 
 </div>
-
 <h2 align="center">🌐 Connect With Me</h2>
 
 <div align="center">
